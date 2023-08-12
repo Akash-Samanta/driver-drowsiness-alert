@@ -10,7 +10,7 @@ This mini-project utilizes image processing techniques to monitor driver's fatig
 5. dlib
 
 #Data used - 
-a facial landmark data files was used to for predicting shapes, that could not be uploaded due to size constraints.
+a facial landmark data files was used to for predicting shapes, that's added here.
 
 Thank you!
 Have a Nice Day!
